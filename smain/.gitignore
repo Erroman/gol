@@ -1,0 +1,10 @@
+# Go executables
+*.exe
+*.exe~
+*.test
+
+# Test and coverage artifacts
+*.out
+
+# Local temporary files
+*.tmp
